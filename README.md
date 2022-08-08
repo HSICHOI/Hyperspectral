@@ -1,5 +1,8 @@
 ## Hello , こんにちは 👋
 
+ 💬 Studying hyperspectral imaging
+ ⚡超分光映像の勉強中
+
 <!--
 **HyperspectralKid/HyperspectralKid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
